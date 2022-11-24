@@ -30,6 +30,7 @@ class Solution:
             return -1
 
 
+#this is a test for commit
 
 myclass = Solution()
 print(myclass.pivotIndex([1,7,3,6,5,6]))
